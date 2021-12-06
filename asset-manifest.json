@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RedSmartRobot/demo-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/RedSmartRobot/demo-react/static/js/main.73acc2dc.chunk.js",
+    "main.js.map": "/RedSmartRobot/demo-react/static/js/main.73acc2dc.chunk.js.map",
+    "runtime-main.js": "/RedSmartRobot/demo-react/static/js/runtime-main.95a0ba35.js",
+    "runtime-main.js.map": "/RedSmartRobot/demo-react/static/js/runtime-main.95a0ba35.js.map",
+    "static/js/2.0cf37bf3.chunk.js": "/RedSmartRobot/demo-react/static/js/2.0cf37bf3.chunk.js",
+    "static/js/2.0cf37bf3.chunk.js.map": "/RedSmartRobot/demo-react/static/js/2.0cf37bf3.chunk.js.map",
+    "static/js/3.83f1cd14.chunk.js": "/RedSmartRobot/demo-react/static/js/3.83f1cd14.chunk.js",
+    "static/js/3.83f1cd14.chunk.js.map": "/RedSmartRobot/demo-react/static/js/3.83f1cd14.chunk.js.map",
+    "index.html": "/RedSmartRobot/demo-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/RedSmartRobot/demo-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0cf37bf3.chunk.js.LICENSE.txt": "/RedSmartRobot/demo-react/static/js/2.0cf37bf3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/RedSmartRobot/demo-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a0ba35.js",
+    "static/js/2.0cf37bf3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.73acc2dc.chunk.js"
+  ]
+}
